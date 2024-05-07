@@ -19,4 +19,4 @@ open a new terminal and then:
 #### `npm run build`
 #### `npm run serve`
 
-open your browser and navigate to localhost:3000
+open your browser and navigate to `localhost:3000`.
